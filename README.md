@@ -10,9 +10,6 @@ This project demonstrates the implementation of a chatbot application leveraging
 - **Vector Similarity Search:** Implements FAISS for efficient vector-based operations.
 - **Data Processing:** Handles text splitting, embeddings generation, and vector storage.
 
-## Live Demo
-Access the live chatbot [here](https://frozen-hamlet-62212-994ef5158284.herokuapp.com/).
-
 ## File Structure
 ### 1. `main.py`
 Handles:
